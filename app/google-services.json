@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697292858173",
+    "project_id": "filmdac-5a06e",
+    "storage_bucket": "filmdac-5a06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697292858173:android:143db8f2db08340da95b54",
+        "android_client_info": {
+          "package_name": "com.example.filmdac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697292858173-28pfhfd4ghvj8flg4vtikq1ususiberv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeu0CN5_n9i6Xay8n-2UxHHXs5rOnm3jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697292858173-28pfhfd4ghvj8flg4vtikq1ususiberv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
